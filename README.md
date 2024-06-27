@@ -3,7 +3,7 @@ In recent years, the integration of advanced data analytics into healthcare has 
 
 MediMapper leverages sophisticated machine learning algorithms to analyze vast amounts of healthcare data, identifying patterns and correlations that may not be evident through traditional methods. By utilizing algorithms like Gaussian Naive Bayes and Random Forest, MediMapper provides a robust framework for predicting disease outcomes and personalizing patient care.
 
-##### <strong>Key Features</strong>
+## <strong>Key Features</strong>
 
 **1. Data Preprocessing:**
 

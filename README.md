@@ -29,10 +29,10 @@ Facilitates the understanding of complex data patterns, making it easier for hea
 
 Implements advanced techniques to create new features, enhancing model performance and offering deeper insights into patient data.
 
-**Impact on Healthcare**
+## <strong>Impact on Healthcare</strong>
 
 MediMapper's ability to navigate and analyze healthcare data paves the way for more personalized and effective treatments. By accurately predicting patient outcomes and identifying key risk factors, it enables healthcare providers to develop targeted treatment plans that are tailored to individual patient needs. This not only improves patient outcomes but also optimizes resource allocation, reducing costs and enhancing the overall efficiency of healthcare delivery.
 
-**Conclusion**
+## <strong>Conclusion</strong>
 
 MediMapper represents a significant advancement in the application of machine learning to healthcare. By integrating robust algorithms and comprehensive data analysis techniques, it empowers healthcare professionals to deliver precision medicine, ultimately improving patient care and advancing medical knowledge. As the field of precision medicine continues to evolve, tools like MediMapper will play an essential role in shaping the future of healthcare.

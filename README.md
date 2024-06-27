@@ -3,6 +3,8 @@ In recent years, the integration of advanced data analytics into healthcare has 
 
 MediMapper leverages sophisticated machine learning algorithms to analyze vast amounts of healthcare data, identifying patterns and correlations that may not be evident through traditional methods. By utilizing algorithms like Gaussian Naive Bayes and Random Forest, MediMapper provides a robust framework for predicting disease outcomes and personalizing patient care.
 
+MediMapper focuses specifically on lung cancer, aiming to enhance early detection, prognosis assessment, and treatment planning for this critical disease. This specialized approach aims to improve patient outcomes and support healthcare providers in making data-driven decisions tailored to lung cancer patients' needs.
+
 ## <strong>Key Features</strong>
 
 **1. Data Preprocessing:**
